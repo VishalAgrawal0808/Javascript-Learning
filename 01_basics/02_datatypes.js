@@ -18,4 +18,4 @@ Types of DataTypes in JS:
 
 console.log(typeof "Vishal");       // datatype will be String
 console.log(typeof undefined);      // undefined
-console.log(typeof nul);            // onject
+console.log(typeof(null));          // object
